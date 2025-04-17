@@ -10,7 +10,7 @@
   <!-- Hero Section -->
   <header class="hero">
     <div class="hero-content">
-      <h1>Hey! what a website yar!!!! wow how nice is this,It is looking so awesomw where we can use to buy our all appliances.Buy these</h1>
+      <h1>Hey!where we can use to buy our all appliances.Buy these</h1>
       <p>Transforming spaces into your dream home</p>
       <a href="#contact" class="btn">Get Started</a>
     </div>
